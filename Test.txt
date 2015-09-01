@@ -1,18 +1,24 @@
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
-Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c骴igo
+1) Crear un repositorio
+2) Clonar repositorio al servidor GitHub
+3) Crear una branch
+4) Darle Push al servidor
+5) Modificar la branch y darle commit al servidor
+
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
+Este es un mdocumento de texto pero puede ser cualquier tipo de archivo de c贸digo
